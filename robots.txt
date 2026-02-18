@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://philadelphiaplumbingco.com/sitemap.xml
